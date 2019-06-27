@@ -1,0 +1,38 @@
+body{
+			background-color: #0100ff30;
+		}
+
+		form{
+			
+			min-height: 700px;
+			
+		}
+		registration{
+		
+			font-size: 25px;
+			font-family: Arial;
+			font-weight: 300;
+			border-bottom-style: ridge;
+		}
+		text{
+			height: 43px;
+		}
+
+		label{
+			font-size: 15px;
+			color:black;
+		}
+
+		btn-primary{
+			border-radius:0px;padding: 10px;
+			width: 100%
+		}
+	
+		legend{
+			color: #fff;
+		}
+		b{
+			height: 10px;
+			margin-top: 15px;
+			color: #fff;
+		}

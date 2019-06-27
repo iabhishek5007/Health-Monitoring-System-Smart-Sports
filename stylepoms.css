@@ -1,0 +1,48 @@
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 10%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: lightgrey;
+}
+
+	.wrapper {
+    text-align: center;
+    padding: 10px 10px 0 0;
+   
+   
+}
+
+.a
+{
+	margin-right: 3.4em;
+}
+
+.b
+{
+	margin-right: 3.1em;
+}
+
+.c
+{
+	margin-right: 1.02em;
+}
+
+.d
+{
+	margin-right: 1em;
+}
+
+.e
+{
+	margin-right: 3.5em;
+}
